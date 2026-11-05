@@ -1,0 +1,8 @@
+# 100-Days-of-SwiftUI
+import Cocoa
+
+let C=50
+print(C)
+let F = (C*9/5)+32
+print(F)
+
